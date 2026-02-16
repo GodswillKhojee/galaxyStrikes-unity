@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6239123626906991628}
   - component: {fileID: 9162233544753926181}
   m_Layer: 0
-  m_Name: Destroy Enemies VFX
+  m_Name: BasedDestroyedVFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
