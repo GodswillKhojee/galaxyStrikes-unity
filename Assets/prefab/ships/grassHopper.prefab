@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5783000761747160763, guid: 3eeae5e8a8942934ca78b9c7e57797fd, type: 3}
+      propertyPath: hitPoint
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6486459747383182484, guid: 3eeae5e8a8942934ca78b9c7e57797fd, type: 3}
       propertyPath: m_LocalPosition.x
       value: -17.569944
@@ -50,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8829478457717862188, guid: 3eeae5e8a8942934ca78b9c7e57797fd, type: 3}
       propertyPath: m_Name
-      value: Enemy 1
+      value: grassHopper
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:

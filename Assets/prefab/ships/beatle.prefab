@@ -102,6 +102,14 @@ PrefabInstance:
       propertyPath: m_Center.y
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 5783000761747160763, guid: 3eeae5e8a8942934ca78b9c7e57797fd, type: 3}
+      propertyPath: score
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5783000761747160763, guid: 3eeae5e8a8942934ca78b9c7e57797fd, type: 3}
+      propertyPath: hitPoint
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 6486459747383182484, guid: 3eeae5e8a8942934ca78b9c7e57797fd, type: 3}
       propertyPath: m_LocalPosition.x
       value: -153.54723
@@ -144,7 +152,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8829478457717862188, guid: 3eeae5e8a8942934ca78b9c7e57797fd, type: 3}
       propertyPath: m_Name
-      value: Enemy 5
+      value: beatle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
